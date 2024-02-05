@@ -35,16 +35,20 @@
 //     Console.WriteLine($"Это четвертая четверть");
 // }
 
-int number = 39;
-int firstDigit = (number / 10);
-int secondDigit = (number % 10);
-if (number >= 10 && number <= 99)
 
-if (firstDigit < secondDigit)
-{
-    Console.WriteLine($"Вторая цифра больше  - {secondDigit}");
-}
-if (firstDigit > secondDigit)
-{
-    Console.WriteLine($"Первая цифра больше  - {firstDigit}");
-}
+//Задача третья
+// int number = 39;
+// int firstDigit = (number / 10);
+// int secondDigit = (number % 10);
+// if (number >= 10 && number <= 99)
+
+// if (firstDigit < secondDigit)
+// {
+//     Console.WriteLine($"Вторая цифра больше  - {secondDigit}");
+// }
+// if (firstDigit > secondDigit)
+// {
+//     Console.WriteLine($"Первая цифра больше  - {firstDigit}");
+// }
+
+
