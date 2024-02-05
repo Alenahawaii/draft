@@ -1,0 +1,14 @@
+C:\c#lessons\y\Yy\bin\Debug\net7.0\Yy.exe
+C:\c#lessons\y\Yy\bin\Debug\net7.0\Yy.deps.json
+C:\c#lessons\y\Yy\bin\Debug\net7.0\Yy.runtimeconfig.json
+C:\c#lessons\y\Yy\bin\Debug\net7.0\Yy.dll
+C:\c#lessons\y\Yy\bin\Debug\net7.0\Yy.pdb
+C:\c#lessons\y\Yy\obj\Debug\net7.0\Yy.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#lessons\y\Yy\obj\Debug\net7.0\Yy.AssemblyInfoInputs.cache
+C:\c#lessons\y\Yy\obj\Debug\net7.0\Yy.AssemblyInfo.cs
+C:\c#lessons\y\Yy\obj\Debug\net7.0\Yy.csproj.CoreCompileInputs.cache
+C:\c#lessons\y\Yy\obj\Debug\net7.0\Yy.dll
+C:\c#lessons\y\Yy\obj\Debug\net7.0\refint\Yy.dll
+C:\c#lessons\y\Yy\obj\Debug\net7.0\Yy.pdb
+C:\c#lessons\y\Yy\obj\Debug\net7.0\Yy.genruntimeconfig.cache
+C:\c#lessons\y\Yy\obj\Debug\net7.0\ref\Yy.dll
